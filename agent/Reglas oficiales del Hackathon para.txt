@@ -1,0 +1,274 @@
+Reglas oficiales del Hackathon para socios de IA agencial de AWS Communication Developer Services (CDS) (el “Hackathon”)
+NO ES NECESARIO REALIZAR NINGUNA COMPRA NI PAGO PARA PARTICIPAR O GANAR. UNA COMPRA O PAGO NO AUMENTARÁ SUS POSIBILIDADES DE GANAR.
+
+LA PRESENTACIÓN DE CUALQUIER PARTICIPACIÓN CONSTITUYE LA ACEPTACIÓN DE ESTAS REGLAS OFICIALES COMO UN CONTRATO ENTRE EL PARTICIPANTE (Y CADA MIEMBRO INDIVIDUAL DEL PARTICIPANTE), EL PATROCINADOR DEL HACKATHON Y DEVPOST.
+
+1. Fechas y horarios
+Período de presentación: del 14 de septiembre de 2026 (6:00 a. m., hora del Pacífico) al 28 de octubre de 2026 (1:00 p. m., hora del Pacífico) (“Período de presentación”).
+
+Período de evaluación: del 6 de noviembre de 2026 (9:00 a. m., hora del Pacífico) al 12 de noviembre de 2026 (5:00 p. m., hora del Pacífico) (“Período de evaluación”).
+
+Anuncio de ganadores: Aproximadamente el 19 de noviembre de 2026 (18:00, hora del Pacífico).
+
+2. Patrocinador y Administrador
+Patrocinador: Amazon Web Services (“Amazon”), 410 Terry Avenue North, Seattle, WA 98109-5210
+
+Administrador: Devpost, Inc. (“Devpost”), 222 Broadway, Piso 19, Nueva York, NY 10038
+
+3. Requisitos de elegibilidad
+El Hackathon está abierto a:
+Personas que tengan al menos la mayoría de edad en el lugar donde residen al momento de ingresar, y que estén empleadas por o autorizadas para actuar en nombre de una organización que se haya registrado en la Red de Socios de AWS (APN) y haya firmado los Términos y Condiciones de la APN ("Personas elegibles");
+Equipos de personas elegibles que estén registradas con el mismo socio de AWS (“Equipos”); y
+Organizaciones de socios de AWS que se hayan registrado en la Red de Socios de AWS (APN) y hayan firmado los Términos y Condiciones de la APN (incluidas corporaciones, corporaciones sin fines de lucro y otras organizaciones sin fines de lucro, sociedades de responsabilidad limitada, sociedades colectivas y otras entidades legales) que existan y se hayan organizado o incorporado en el momento de la inscripción.
+(los mencionados anteriormente son, en conjunto, los “Participantes”)
+
+Una persona elegible puede unirse a más de un equipo u organización, y también puede participar en el Hackathon de forma individual. Si un equipo u organización participa en el Hackathon, deberá designar y autorizar a una persona (el "Representante") para que la represente, actúe en su nombre y presente una propuesta. Al presentar una propuesta en nombre de un equipo u organización, usted declara y garantiza ser el Representante autorizado para actuar en nombre de dicho equipo u organización.
+
+El Hackathon NO está abierto a:
+Personas físicas o jurídicas domiciliadas en un país, estado, provincia o territorio donde las leyes de los Estados Unidos o la legislación local prohíban participar o recibir un premio en el Hackathon (incluidos, entre otros, Brasil, Quebec, Rusia, Crimea, Cuba, Irán, Corea del Norte, Siria y cualquier otro país designado por la Oficina de Control de Activos Extranjeros del Departamento del Tesoro de los Estados Unidos).
+Organizaciones involucradas en el diseño, producción, promoción pagada, ejecución o distribución del Hackathon, incluyendo al Patrocinador y al Administrador (“Entidades de Promoción”).
+Empleados, representantes y agentes** de dichas Entidades Promotoras, y todos los miembros de su familia inmediata o de su hogar*.
+Cualquier otra persona involucrada en el diseño, producción, promoción, ejecución o distribución del Hackathon, y cada miembro de su familia inmediata o de su hogar*.
+Cualquier juez (definido a continuación), o empresa o persona que emplee a un juez.
+Cualquier empresa matriz, subsidiaria u otra filial*** de cualquier organización descrita anteriormente
+Cualquier otra persona u organización cuya participación en el Hackathon pudiera generar, a criterio exclusivo del Patrocinador y/o Administrador, un conflicto de intereses real o aparente.
+*Los miembros de la familia inmediata de una persona incluyen a su cónyuge, hijos e hijastros, padres y padrastros, y hermanos y hermanastros. Los miembros del hogar de una persona incluyen a cualquier otra persona que comparta la misma residencia con dicha persona durante al menos tres (3) meses al año.
+
+**Entre los agentes se incluyen personas u organizaciones que, al crear una propuesta para el Hackathon, actúan en nombre y bajo la dirección de una Entidad Promotora a través de una relación contractual o similar.
+
+***Una filial es: (a) una organización que está bajo control común, comparte una mayoría común o un propietario controlador, o una administración común; o (b) una organización que tiene una propiedad sustancial en, o es propiedad sustancial de la otra organización.
+
+4. Cómo entrar
+Los participantes pueden inscribirse visitando aws-cds-partner.devpost.com (“Sitio web del Hackathon”) y siguiendo los pasos que se indican a continuación:
+
+Regístrate en el Hackathon en el sitio web del evento haciendo clic en el botón "Unirse al Hackathon". Para completar el registro, crea una cuenta gratuita en Devpost o inicia sesión con tu cuenta existente. Esto te permitirá recibir actualizaciones importantes y enviar tu propuesta.
+Durante el registro, los participantes deben proporcionar la dirección de correo electrónico corporativa del dominio asociado al registro APN de su organización, junto con el nombre de su organización de socio de AWS. Nota: La dirección de correo electrónico de su cuenta de Devpost no tiene por qué coincidir con su dirección de correo electrónico corporativa.
+Los participantes obtendrán acceso a las herramientas/plataforma de desarrollo necesarias y completarán un proyecto descrito a continuación en Requisitos del proyecto. El uso de las herramientas de desarrollo estará sujeto al acuerdo de licencia correspondiente. La inscripción en el Hackathon implica el consentimiento para que el Patrocinador y Devpost recopilen y conserven la información personal del participante con el fin de organizar y promocionar el Hackathon.
+Los participantes pueden solicitar $50 en créditos promocionales de AWS por equipo para una cuenta de socio de AWS con el fin de completar su proyecto para el Hackathon hasta agotar existencias. Solo se puede solicitar un conjunto de créditos promocionales de AWS por equipo por parte de las personas registradas en el Hackathon que demuestren una idea de envío válida. Los créditos promocionales de AWS vencen el 31 de octubre de 2026 a las 23:59 (hora del Pacífico). Para solicitar créditos promocionales de AWS, debe completar el formulario de solicitud de créditos promocionales de AWS . El administrador y el patrocinador se reservan el derecho de otorgar créditos únicamente a los participantes que hayan demostrado una idea de envío válida. Los créditos promocionales de AWS se aplican a todos los productos necesarios para desarrollar en este hackathon, EXCEPTO Kiro.
+NOTA : Los cargos adicionales en los que incurra el participante por el uso de los productos de AWS son responsabilidad del participante. Se recomienda a los participantes que controlen su uso de los servicios para evitar cargos adicionales.
+
+Los participantes también pueden solicitar créditos Kiro individualmente para completar su proyecto para el Hackathon hasta agotar existencias. Los créditos Kiro solo pueden ser solicitados por personas registradas en el Hackathon que demuestren una idea válida para su presentación. Para solicitar créditos Kiro, debe completar el formulario de solicitud de créditos Kiro. Los créditos Kiro vencen el 30 de octubre de 2026 a las 23:59 (hora del Pacífico). El administrador y el patrocinador se reservan el derecho de otorgar créditos únicamente a los participantes que hayan demostrado una idea válida para su presentación.
+
+Los créditos promocionales de AWS, incluidos los créditos Kiro, están sujetos a los términos y condiciones de los créditos promocionales de AWS que se encuentran en: https://aws.amazon.com/awscredits/. Los créditos promocionales de AWS no son canjeables por dinero en efectivo y solo se pueden aplicar a los servicios de AWS.
+
+Complete e ingrese todos los campos obligatorios en la página "Enviar una propuesta" del sitio web del Hackathon (cada una de ellas una "Propuesta") durante el Período de Envío y siga los requisitos que se detallan a continuación.
+Requisitos del proyecto
+
+Qué crear: Los participantes deben construir, desarrollar e implementar una solución de IA en AWS para abordar un caso de uso real de un cliente que utilice al menos un Servicio de desarrollo de comunicaciones de AWS (CDS) (cada uno un “Proyecto”):
+Mensajería para usuarios finales de AWS (EUM), que incluye Servicios de comunicación enriquecida (RCS) y Servicio de mensajes cortos (SMS).
+Mensajería social para usuarios finales de AWS (WhatsApp)
+Servicio de correo electrónico simple de Amazon (SES)
+Recomendado pero no obligatorio: Incorpore Amazon Bedrock AgentCore para crear una solución de IA basada en agentes . Nota: Amazon Pinpoint dejará de recibir soporte el 30/10/2026.
+
+AWS End User Messaging Push no cuenta como uso de CDS para la elegibilidad.
+
+Funcionalidad: El proyecto debe poder instalarse correctamente y ejecutarse de forma consistente en la plataforma para la que está destinado, y debe funcionar tal como se muestra en el vídeo o se describe en el texto.
+Plataformas: El proyecto presentado debe ejecutarse en la plataforma para la que está destinado y que se especifica en los Requisitos de Presentación.
+Solo proyectos nuevos: Los proyectos deben haber sido creados durante el período de presentación. Los participantes pueden usar herramientas de desarrollo estándar, como marcos de trabajo, bibliotecas, plantillas de inicio y asistentes de codificación de IA, pero deben revelar cualquier otro código o trabajo preexistente incorporado al proyecto. El trabajo descrito y presentado debe haber sido desarrollado durante el período de presentación.
+Integraciones con terceros: Si un proyecto integra algún SDK, API o datos de terceros, el participante debe estar autorizado a utilizarlos de acuerdo con los términos y condiciones o los requisitos de licencia de la herramienta.
+Requisitos de presentación
+
+Las propuestas para el Hackathon deben cumplir los siguientes requisitos:
+
+Incluya un proyecto creado con las herramientas de desarrollo necesarias y que cumpla con los requisitos del proyecto mencionados anteriormente.
+Proporcione una URL a su repositorio de código para su evaluación y prueba en GitHub o GitLab. Debe contener todo el código fuente, los recursos y las instrucciones necesarios para la ejecución del proyecto, y debe demostrar el uso de AWS Communication Developer Services en tiempo de ejecución en su código: importado y realmente llamado (una importación de biblioteca, un punto de entrada de aplicación/backend o una configuración de agente/flujo/MCP cargada), no solo mencionado en el README. El repositorio puede ser público o privado. Si el repositorio es público, debe ser de código abierto incluyendo un archivo de licencia de código abierto. Esta licencia debe ser detectable y visible en la parte superior de la página del repositorio (en la sección Acerca de). Si el repositorio es privado, compártalo con testing@devpost.com y aws-cds-partner@amazon.com . Más información disponible en este README de GitHub .
+Paquetes / SDK / plataformas de agentes aceptados: su código debe importar y llamar a un cliente SDK de AWS para uno de los servicios CDS que cumplen los requisitos que se indican a continuación.
+
+Mensajería para usuarios finales de AWS (RCS y SMS): el cliente Pinpoint SMS and Voice v2 en cualquier SDK de AWS (boto3 pinpoint-sms-voice-v2 , JavaScript @aws-sdk/client-pinpoint-sms-voice-v2 , Java software.amazon.awssdk:pinpointsmsvoicev2 ), que llama a operaciones como SendTextMessage, SendMediaMessage, SendRcsMessage o SendVoiceMessage. Los clientes v1 anteriores ( sms-voice , pinpoint-sms-voice ) no son compatibles.
+Mensajería social para usuarios finales de AWS (WhatsApp): el cliente de mensajería social en cualquier SDK de AWS (boto3 socialmessaging , JavaScript @aws-sdk/client-socialmessaging ), que llama a SendWhatsAppMessage.
+Amazon SES: el cliente SES en cualquier SDK de AWS, v1 o v2 (boto3 sesv2 o ses , JavaScript @aws-sdk/client-sesv2 o @aws-sdk/client-ses ). Se recomienda la versión v2. El envío a través de la interfaz SMTP de SES también es válido.
+No se aceptan: AWS End User Messaging Push y los clientes heredados de Amazon Pinpoint ( pinpoint , pinpoint-email ).
+
+Incluya un diagrama de arquitectura.
+Incluye una descripción textual que explique las características y la funcionalidad de tu proyecto.
+Incluya un video de demostración de su proyecto. La sección de video de la presentación:
+Debe durar alrededor de tres (3) minutos. Los jueces no están obligados a ver más de tres minutos.
+Debe incluir imágenes que muestren el funcionamiento del proyecto en el dispositivo para el que fue diseñado.
+Debe subirse y hacerse visible públicamente en YouTube o Vimeo, y debe proporcionarse un enlace al vídeo en el formulario de envío del sitio web del Hackathon; y
+No debe incluir marcas comerciales de terceros, ni música u otro material protegido por derechos de autor, a menos que el participante tenga permiso para utilizar dicho material. 
+Incluye la URL de tu proyecto desplegado. Si tu proyecto no tiene una interfaz web (por ejemplo, un correo electrónico o un agente de WhatsApp), envía la URL de tu repositorio de código e incluye instrucciones para interactuar con él, como el alias de correo electrónico o el número de teléfono que deben usar los jueces, en el archivo README de tu repositorio.
+Incluya el ID de oportunidad creado en AWS Customer Engagement (ACE) de Partner Central. La oportunidad debe ser completamente nueva, creada a partir del 14 de septiembre de 2026, e incluir el código de campaña de marketing "AWS CDS Agentic AI Hackathon -Sept. 2026". Consulte la página de preguntas frecuentes para obtener información sobre cómo agregar una oportunidad en ACE.
+Para optar al premio Meta WhatsApp:
+Incluya una descripción de cómo se utilizó AWS End User Messaging Social (EUM - WhatsApp).
+Múltiples envíos
+
+Un participante puede enviar más de una propuesta; sin embargo, cada propuesta debe ser única y sustancialmente diferente de las demás propuestas del participante, según lo determinen el patrocinador y Devpost a su entera discreción.
+
+Propiedad de la presentación
+
+Debe ser obra original del participante, ser de su propiedad exclusiva y no infringir los derechos de propiedad intelectual de ninguna otra persona o entidad.
+
+Pruebas
+
+Se debe proporcionar acceso al proyecto del participante para su evaluación y prueba mediante un enlace a su sitio web, una demostración funcional o una versión de prueba. Si el sitio web del participante es privado, este deberá incluir las credenciales de acceso en las instrucciones de prueba. El participante deberá poner el proyecto a disposición del patrocinador, el administrador y los jueces de forma gratuita y sin restricciones, para su prueba, evaluación y uso hasta que finalice el período de evaluación. Los jueces no están obligados a probar el proyecto y pueden basar su evaluación únicamente en la descripción, las imágenes y el vídeo proporcionados en la presentación.
+
+Si el Proyecto incluye software que se ejecuta en hardware propietario o de terceros que no está ampliamente disponible para el público, incluido software que se ejecuta en dispositivos o tecnología portátil que no sean teléfonos inteligentes, tabletas o computadoras de escritorio, el Patrocinador y/o el Administrador se reservan el derecho, a su entera discreción, de exigir al Participante que proporcione acceso físico al hardware del Proyecto cuando se le solicite. 
+
+Requisitos de idioma
+
+Todos los materiales de presentación deben estar en inglés o, si no lo están, el participante debe proporcionar una traducción al inglés del vídeo de demostración, la descripción del texto y las instrucciones de la prueba, así como de todos los demás materiales presentados.
+
+Representación del equipo
+
+Si un equipo u organización participa en el Hackathon, deberá designar y autorizar a una persona (el “Representante”) para que lo represente, actúe en su nombre y presente una propuesta. El Representante deberá cumplir con los requisitos de elegibilidad mencionados anteriormente. Al presentar una propuesta en el sitio web del Hackathon en nombre de un equipo u organización, usted declara y garantiza ser el Representante autorizado para actuar en nombre de su equipo u organización.
+
+Propiedad intelectual
+
+Su propuesta debe: (a) ser un producto de trabajo original suyo (o de su equipo u organización); (b) ser de su propiedad exclusiva, sin que ninguna otra persona o entidad tenga derecho o interés alguno sobre ella; y (c) no infringir los derechos de propiedad intelectual u otros derechos, incluidos, entre otros, los derechos de autor, marcas registradas, patentes, contratos y/o derechos de privacidad, de ninguna otra persona o entidad. Un participante puede contratar a un tercero para obtener asistencia técnica para crear la propuesta, siempre que los componentes de la misma sean exclusivamente su producto de trabajo y el resultado de sus ideas y creatividad, y que el participante posea todos los derechos sobre ellos. Un participante puede presentar una propuesta que incluya el uso de software o hardware de código abierto, siempre que cumpla con las licencias de código abierto aplicables y, como parte de la propuesta, cree software que mejore y desarrolle las características y funcionalidades incluidas en el producto de código abierto subyacente. Al participar en el Hackathon, usted declara, garantiza y acepta que su propuesta cumple con estos requisitos.
+
+Apoyo financiero o preferencial
+
+Ningún proyecto debe haber sido desarrollado, ni derivado de otro proyecto, con apoyo financiero o preferencial del Patrocinador o Administrador. Estos proyectos incluyen, entre otros, aquellos que recibieron financiación o inversión para su desarrollo, se desarrollaron bajo contrato o recibieron una licencia comercial del Patrocinador o Administrador antes de que finalice el período de presentación del Hackathon. El Patrocinador, a su entera discreción, podrá descalificar un proyecto si la concesión de un premio al mismo generara un conflicto de intereses real o aparente.
+
+5. Modificaciones a la presentación
+Borradores de propuestas
+
+Antes de que finalice el período de presentación, puedes guardar versiones preliminares de tu propuesta en Devpost, en tu portafolio, antes de enviar los materiales al Hackathon para su evaluación. Una vez finalizado el período de presentación, no podrás realizar cambios ni modificaciones en tu propuesta, pero podrás seguir actualizando el proyecto en tu portafolio de Devpost.
+
+Modificaciones posteriores al período de presentación
+
+El patrocinador y Devpost podrán permitirle modificar parte de su envío una vez finalizado el período de envío para añadir, eliminar o reemplazar material que potencialmente infrinja una marca o derecho de terceros, divulgue información personal identificable o sea inapropiado por cualquier otro motivo. El envío modificado deberá conservar sustancialmente el mismo contenido que el envío original, con la única modificación permitida por el patrocinador y Devpost.
+
+6. Jueces y criterios
+El patrocinador y el administrador se reservan el derecho exclusivo de determinar la elegibilidad y las metodologías de evaluación de todas las propuestas. Este proceso puede utilizar paneles de expertos, revisión por pares, análisis automatizado mediante IA o cualquier combinación de estos para garantizar una evaluación eficiente, justa y objetiva. Las propuestas elegibles serán evaluadas por un panel de jueces seleccionado por el patrocinador (los "Jueces"). Los Jueces pueden ser empleados del patrocinador o terceros, pueden o no aparecer individualmente en el sitio web del Hackathon y pueden cambiar antes o durante el período de evaluación. La evaluación puede realizarse en una o más rondas con uno o más paneles de Jueces, a discreción del patrocinador.
+
+Primera etapa) La primera etapa determinará, mediante un sistema de aprobado/reprobado, si las ideas cumplen con un nivel básico de viabilidad, es decir, si el proyecto se ajusta razonablemente al tema y aplica razonablemente las API/SDK requeridas que se presentan en el Hackathon.
+
+Segunda fase) Todas las propuestas que superen la primera fase serán evaluadas en la segunda fase según los siguientes criterios ponderados (los “Criterios de evaluación”):
+
+Las candidaturas serán evaluadas según los siguientes criterios ponderados y a la entera y absoluta discreción de los jueces:
+
+Valor/Impacto potencial: 20%
+¿Qué problema o proceso del cliente resuelve o mejora? ¿Qué impacto (medible) tiene?
+Creatividad – 10%
+Novedad del problema, novedad del enfoque
+Ejecución técnica – 40%
+Debe utilizar la tecnología o tecnologías mencionadas en la sección «Qué construir». ¿La solución está bien diseñada? ¿Es reproducible? ¿Se utilizan varios servicios de AWS CDS y están bien integrados con los servicios generales de AWS y los servicios de IA específicos?
+Funcionalidad – 10%
+¿Los servicios de AWS CDS y otros servicios de AWS funcionan como se espera? ¿La solución es escalable? ¿La solución aprovecha la IA para mejorar los procesos o experiencias existentes?
+Presentación de demostración – 20%
+¿Incluye el flujo de trabajo completo? ¿Qué tal la calidad y claridad de la demostración?
+Las puntuaciones del jurado determinarán a los posibles ganadores de los premios correspondientes. El o los participantes que cumplan los requisitos para optar a un premio y cuyas propuestas obtengan la puntuación general más alta según los criterios de evaluación aplicables, serán los posibles ganadores de dicho premio.
+
+Desempate
+
+Para cada premio que se detalla a continuación, si dos o más propuestas empatan, la propuesta empatada con la puntuación más alta en el primer criterio aplicable mencionado anteriormente se considerará la de mayor puntuación. Si persiste algún empate, este proceso se repetirá, según sea necesario, comparando las puntuaciones de las propuestas empatadas en el siguiente criterio aplicable. Si dos o más propuestas empatan en todos los criterios aplicables, el jurado votará entre ellas.
+
+7. Derechos de propiedad intelectual
+Todas las presentaciones siguen siendo propiedad intelectual de las personas u organizaciones que las desarrollaron. Al enviar una participación, los participantes aceptan que el Patrocinador tendrá una licencia no exclusiva para usar dicha participación para juzgar la misma. Los participantes aceptan que el patrocinador y Devpost tendrán el derecho de promocionar la Presentación y usar el nombre, la semejanza, la voz y la imagen de todas las personas que contribuyeron a una Presentación, en cualquier material que promocione o publicite el Hackathon y sus resultados, durante el Período del Hackathon y durante tres años posteriores. Algunos componentes de la Presentación pueden mostrarse al público. Otros materiales de la Presentación pueden ser vistos por el patrocinador, Devpost y los jueces para su revisión y evaluación. Al enviar una participación o aceptar cualquier premio, los participantes declaran y garantizan que (a) el contenido enviado no está protegido por derechos de autor, secreto comercial u otro tipo de derechos de propiedad intelectual de terceros u otros derechos de propiedad, incluidos los derechos de privacidad y publicidad, a menos que el participante sea el propietario de dichos derechos o tenga permiso de su legítimo propietario para publicar el contenido; y (b) el contenido enviado no contiene virus, troyanos, gusanos, software espía u otros dispositivos de desactivación o código dañino o malicioso.
+
+8. Premios
+Ganador
+
+Premio
+
+Cantidad
+
+Presentaciones elegibles
+
+Premios generales
+
+1er lugar
+
+●      18.000 dólares estadounidenses
+
+●      Soporte de habilitación premium para listados en AWS Marketplace si se desea.
+
+●      Soporte de GTM para soluciones alineadas con AWS CDS si se desea.
+
+●      Estudio de caso conjunto con AWS
+
+1
+
+Todas las solicitudes que cumplan los requisitos
+
+Segundo lugar
+
+●      8.000 dólares estadounidenses
+
+●      Soporte de habilitación premium para listados en AWS Marketplace si se desea.
+
+●      Soporte de GTM para soluciones alineadas con AWS CDS si se desea.
+
+●      Estudio de caso / apoyo de marketing si se desea
+
+1
+
+Todas las solicitudes que cumplan los requisitos
+
+3er lugar
+
+●      4.000 dólares estadounidenses
+
+●      Soporte de habilitación premium para listados en AWS Marketplace si se desea.
+
+●      Soporte de GTM para soluciones alineadas con AWS CDS si se desea.
+
+●      Estudio de caso / apoyo de marketing si se desea
+
+1
+
+Todas las solicitudes que cumplan los requisitos
+
+Premios adicionales
+
+La mejor solución para WhatsApp (Patrocinado por Meta)
+
+●      10.000 dólares estadounidenses
+
+1
+
+Todas las personas elegibles que utilicen AWS End User Messaging Social (WhatsApp) en su envío como el único servicio de AWS CDS o uno de varios servicios de AWS CDS.
+
+NOTAS IMPORTANTES SOBRE LA ELEGIBILIDAD PARA VARIOS PREMIOS:
+
+Un proyecto solo puede ganar un (1) premio.
+Si no hay candidaturas que cumplan los requisitos para un premio, este no se otorgará.
+Sustituciones y cambios: Los premios no son transferibles por el ganador. El patrocinador, a su entera discreción, se reserva el derecho de sustituir el premio por otro de valor equivalente o superior. El patrocinador no otorgará ningún premio si no se presentan propuestas válidas en el Hackathon, o si no hay participantes o propuestas válidas para un premio específico.
+Requisito de verificación: LA ENTREGA DE UN PREMIO A UN POSIBLE GANADOR ESTÁ SUJETA A LA VERIFICACIÓN DE SU IDENTIDAD, CALIFICACIONES Y PARTICIPACIÓN EN LA ELABORACIÓN DE LA PARTICIPACIÓN. Ninguna participación ni participante se considerará ganador hasta que sus declaraciones juradas posteriores al concurso hayan sido completadas y verificadas, incluso si los posibles ganadores han sido anunciados verbalmente o en el sitio web del concurso. La decisión final sobre la designación del ganador corresponderá al Patrocinador y/o al Administrador.
+Entrega de premios: Los premios se pagarán al participante, si es una persona física; a su representante, si es un equipo; o a la organización, si el participante es una organización. Será responsabilidad del representante del participante ganador distribuir el premio entre los miembros participantes de su equipo u organización, según lo considere apropiado. El premio monetario se enviará por correo a la dirección del participante ganador (si es una persona física) o a la dirección de su representante (si es un equipo u organización), o se enviará electrónicamente a la cuenta bancaria del participante, su representante o la organización, solo después de recibir la declaración jurada del ganador completa y los demás formularios requeridos (en adelante, los "Formularios Requeridos"), si corresponde. El plazo para devolver los Formularios Requeridos al administrador es de diez (10) días hábiles a partir de la fecha de envío de los Formularios Requeridos. Si no se proporciona la información correcta en los formularios requeridos, o cualquier otra información necesaria para la entrega del premio, esto podría ocasionar retrasos en la entrega, la descalificación del participante o la pérdida del premio. Los premios se entregarán dentro de los 60 días posteriores a la recepción de los formularios requeridos completos por parte del patrocinador o de Devpost.
+Tarifas e Impuestos: Los ganadores (y en el caso de un equipo u organización, todos los miembros participantes) son responsables de cualquier tarifa asociada con la recepción o el uso del premio, incluyendo, entre otros, las tarifas de transferencia bancaria o de cambio de divisas. Los ganadores (y en el caso de un equipo u organización, todos los miembros participantes) son responsables de declarar y pagar todos los impuestos aplicables en su jurisdicción de residencia (federales, estatales/provinciales/territoriales y locales). Es posible que se les solicite a los ganadores que proporcionen cierta información para facilitar la recepción del premio, incluyendo completar y enviar cualquier formulario fiscal u otro formulario necesario para cumplir con los requisitos de retención y declaración aplicables. Los residentes de Estados Unidos podrían tener que proporcionar un formulario W-9 completo y los residentes de otros países podrían tener que proporcionar un formulario W-8BEN completo. Los ganadores también son responsables de cumplir con las regulaciones bancarias y de cambio de divisas en sus respectivas jurisdicciones e informar sobre la recepción del premio a los departamentos/agencias gubernamentales pertinentes, si fuera necesario. El patrocinador, Devpost y/o el proveedor del premio se reservan el derecho de retener una parte del importe del premio para cumplir con las leyes fiscales de los Estados Unidos u otra jurisdicción del patrocinador, o con las de la jurisdicción del ganador.
+9. Condiciones de entrada y exención de responsabilidad
+Al participar en el Hackathon, usted (y, si participa en nombre de un equipo u organización, cada uno de los miembros participantes) acepta lo siguiente:
+La relación entre usted, el participante, y el patrocinador y administrador, no es una relación confidencial, fiduciaria ni de ningún otro tipo especial.
+Usted estará sujeto a estas Reglas Oficiales y deberá cumplirlas, así como a las decisiones del Patrocinador, el Administrador y/o los Jueces del Hackathon, las cuales son vinculantes y definitivas en todos los asuntos relacionados con el Hackathon.
+Usted libera, indemniza, defiende y mantiene indemnes a las Entidades de la Promoción, y sus respectivas empresas matrices, subsidiarias y afiliadas, los proveedores de premios y cualquier otra organización responsable de patrocinar, cumplir, administrar, publicitar o promover el Hackathon, y todos sus respectivos funcionarios, directores, empleados, agentes y representantes pasados ​​y presentes (en adelante, las "Partes Liberadas") de y contra cualquier reclamo, gasto y responsabilidad (incluidos los honorarios razonables de abogados), incluyendo pero no limitado a negligencia y daños de cualquier tipo a personas y propiedad, difamación, calumnia, libelo, violación del derecho de publicidad, infracción de marca registrada, derechos de autor u otros derechos de propiedad intelectual, daños a la propiedad, o muerte o lesiones personales que surjan de o estén relacionados con la entrada de un Participante, la creación de Envío o envío de un Envío, participación en el Hackathon, aceptación o uso o mal uso del Premio (incluido cualquier viaje o actividad relacionada con el mismo) y/o la difusión, transmisión, ejecución, explotación o uso del Envío según lo autorizado o licenciado por estas Reglas Oficiales. 
+Sin limitar lo anterior, las Partes Exoneradas no tendrán responsabilidad alguna en relación con: 
+Cualquier información incorrecta o inexacta, ya sea causada por un error electrónico o de impresión del Patrocinador o del Administrador, o por cualquier equipo o programa asociado o utilizado en el Hackathon; 
+Fallos técnicos de cualquier tipo, incluidos, pero no limitados a, mal funcionamiento, interrupciones o desconexiones en las líneas telefónicas, errores de conectividad a Internet o de transmisión electrónica, o fallos en el hardware o software de la red o en el sitio web del Hackathon;
+Intervención humana no autorizada en cualquier parte del proceso de inscripción o del Hackathon; 
+Error técnico o humano que pueda ocurrir en la administración del Hackathon o en el procesamiento de las presentaciones; o 
+Cualquier lesión o daño a personas o propiedades que pueda ser causado, directa o indirectamente, en su totalidad o en parte, por la participación del participante en el Hackathon o por la recepción, uso o mal uso de cualquier premio.
+Las Partes Exoneradas no se responsabilizan de las presentaciones incompletas, tardías, mal dirigidas, dañadas, perdidas, ilegibles o incomprensibles, ni de los cambios de dirección postal o de correo electrónico de los participantes. El comprobante de envío no se considerará prueba de recepción por parte del Patrocinador o Administrador. Si por cualquier motivo se determina que la presentación de un participante no se ha recibido, se ha eliminado erróneamente, se ha perdido, se ha destruido o se ha dañado, el único recurso del participante es solicitar la oportunidad de volver a enviarla. Dicha solicitud deberá realizarse inmediatamente después de que el participante tenga conocimiento o debiera haber tenido conocimiento del problema y será determinada a la entera discreción del Patrocinador.
+
+10. Publicidad
+Al participar en el Hackathon, el participante autoriza la promoción y exhibición de su propuesta, así como el uso de su información personal con fines promocionales por parte del patrocinador, el administrador y terceros que actúen en su nombre. Dicha información personal incluye, entre otros, su nombre, imagen, fotografía, voz, opiniones, comentarios y lugar de residencia. Podrá utilizarse en cualquier medio, existente o de nueva creación, en todo el mundo, sin pago ni contraprestación adicionales, ni derecho a revisión, salvo que lo prohíba la ley. El uso autorizado incluye, entre otros, fines publicitarios y promocionales.
+
+11. Condiciones generales
+El patrocinador y el administrador se reservan el derecho, a su entera discreción, de cancelar, suspender y/o modificar el Hackathon, o cualquier parte del mismo, en caso de fallo técnico, fraude o cualquier otro factor o evento que no se haya previsto o que esté fuera de su control.
+El patrocinador y el administrador se reservan el derecho, a su entera discreción, de descalificar a cualquier persona o participante si consideran que está manipulando, o aparentando manipular, el proceso de inscripción o el funcionamiento del Hackathon, o que está actuando en violación de estas Reglas Oficiales o de una manera inapropiada, antideportiva, que no redunde en beneficio de este Hackathon, o que infrinja cualquier ley o reglamento aplicable.
+Cualquier intento por parte de cualquier persona de socavar el correcto desarrollo del Hackathon puede constituir una violación de la ley penal y civil. Si el Patrocinador o el Administrador sospechan que se ha realizado o se ha amenazado con realizar tal intento, se reservan el derecho de tomar las medidas pertinentes, incluyendo, entre otras, exigir al participante que coopere con la investigación y remitir el caso a las autoridades policiales y civiles.
+En caso de existir alguna discrepancia o inconsistencia entre los términos y condiciones de las Reglas Oficiales y las divulgaciones u otras declaraciones contenidas en cualquier material del Hackathon, incluyendo, entre otros, el formulario de envío del Hackathon, el sitio web del Hackathon o la publicidad, prevalecerán los términos y condiciones de las Reglas Oficiales.
+Los términos y condiciones de las Reglas Oficiales están sujetos a cambios en cualquier momento, incluyendo los derechos y obligaciones del Participante, el Patrocinador y el Administrador. El Patrocinador y el Administrador publicarán los términos y condiciones de las Reglas Oficiales modificadas en el Sitio Web del Hackathon. En la medida en que lo permita la ley, cualquier modificación entrará en vigor en el momento especificado en la publicación de las Reglas Oficiales modificadas o, si no se especifica ningún momento, en el momento de su publicación.
+Si en cualquier momento antes de la fecha límite, un participante o posible participante cree que algún término de las Reglas Oficiales es o puede ser ambiguo, deberá presentar una solicitud de aclaración por escrito.
+El hecho de que el Patrocinador o el Administrador no hagan cumplir alguna cláusula de estas Reglas Oficiales no constituirá una renuncia a dicha cláusula. Si alguna cláusula de estas Reglas Oficiales resultara ilegal o inaplicable en cualquier jurisdicción cuyas leyes o reglamentos sean aplicables a un Participante, dicha ilegalidad o inaplicabilidad no afectará, en la medida en que lo permita la ley, al resto de estas Reglas Oficiales, incluyendo la cláusula afectada. La cláusula ilegal o inaplicable será reemplazada por una cláusula válida y aplicable que refleje de la mejor manera posible la intención del Patrocinador con respecto a la cláusula inválida o inaplicable.
+Con excepción de las Presentaciones, toda la propiedad intelectual relacionada con este Hackathon, incluyendo, entre otros, material protegido por derechos de autor, marcas registradas, nombres comerciales, logotipos, diseños, material promocional, páginas web, códigos fuente, dibujos, ilustraciones, eslóganes y representaciones, es propiedad del Patrocinador y/o Administrador o se utiliza bajo licencia por ellos. Todos los derechos están reservados. Queda estrictamente prohibida la copia o el uso no autorizado de cualquier material protegido por derechos de autor o propiedad intelectual sin el consentimiento expreso por escrito de sus propietarios. Cualquier uso de la propiedad intelectual del Patrocinador o Administrador en una Presentación se limitará a lo estipulado en estas Reglas Oficiales.
+12. Limitaciones de responsabilidad
+Al participar, todos los concursantes (incluidos, en el caso de un equipo u organización, todos sus miembros) aceptan eximir a las Partes Exoneradas de toda responsabilidad relacionada con los premios o la participación del concursante en el Hackathon. Sin embargo, cualquier limitación de responsabilidad por negligencia grave, actos intencionales, fallecimiento o lesiones corporales no será aplicable en las jurisdicciones donde dicha limitación no sea legal.
+
+13. Disputas
+Salvo que lo prohíba la ley, como condición para participar en este Hackathon, el participante acepta que:
+Todas y cada una de las disputas y causas de acción que surjan de este Hackathon o estén relacionadas con él, o con cualquier premio otorgado, se resolverán individualmente, sin recurrir a ninguna forma de demanda colectiva, y exclusivamente mediante arbitraje final y vinculante de acuerdo con las reglas de la Asociación Americana de Arbitraje (AAA) y que se llevará a cabo en la oficina regional de la AAA más cercana al participante;
+La Ley Federal de Arbitraje regirá la interpretación, la ejecución y todos los procedimientos en dicho arbitraje; y
+La sentencia dictada en virtud de dicho laudo arbitral podrá ser ejecutada en cualquier tribunal con jurisdicción.
+Bajo ninguna circunstancia se le permitirá al participante obtener premios por daños punitivos, incidentales o consecuenciales, o cualquier otro tipo de daños, incluidos los honorarios de abogados, que no sean los gastos reales de bolsillo del concursante (es decir, los costos asociados con la participación en este Hackathon), y el participante renuncia por la presente a todos los derechos a reclamarlos. Además, el participante renuncia a todos los derechos a que los daños se multipliquen o aumenten.
+Todas las cuestiones y preguntas relativas a la construcción, validez, interpretación y aplicabilidad de estas Reglas Oficiales, o los derechos y obligaciones del Participante y del Patrocinador en relación con este Hackathon, se regirán e interpretarán de conformidad con las leyes sustantivas del Estado de Nueva York, EE. UU., sin tener en cuenta las normas de elección de ley de Nueva York.
+ALGUNAS JURISDICCIONES NO PERMITEN LA LIMITACIÓN O EXCLUSIÓN DE RESPONSABILIDAD POR DAÑOS INCIDENTALES O CONSECUENTES, POR LO QUE LAS LIMITACIONES DE RESPONSABILIDAD ANTERIORES PUEDEN NO APLICARSE EN SU CASO.
+
+14. Términos adicionales
+Por favor, revise los Términos de Servicio de Devpost en https://info.devpost.com/terms para conocer las reglas adicionales que rigen su participación en el Hackathon y, en general, el uso del sitio web del Hackathon. Dichos Términos de Servicio se incorporan por referencia a estas Reglas Oficiales, incluyendo que el término "Poster" en los Términos de Servicio tendrá el mismo significado que "Sponsor" en estas Reglas Oficiales. En caso de conflicto entre los Términos de Servicio y estas Reglas Oficiales, estas últimas prevalecerán únicamente con respecto a este Hackathon.
+
+15. Información personal del participante
+La información recopilada de los participantes está sujeta a la Política de Privacidad de Devpost, que está disponible en https://info.devpost.com/privacy .
+
+Si tiene alguna pregunta, envíe un correo electrónico a support@devpost.com .

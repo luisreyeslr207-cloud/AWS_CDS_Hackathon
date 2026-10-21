@@ -1,0 +1,25 @@
+{
+  "agentManifest": {
+    "manifestVersion": "1.0",
+    "agentName": "AgenticCommerceAssistant",
+    "foundationModel": "anthropic.claude-3-5-sonnet-v1:0",
+    "description": "Autonomous e-commerce agent utilizing AWS CDS for WhatsApp messaging and SES for secure post-purchase order dispatch.",
+    "orchestrationStrategy": "AGENTIC_CORE",
+    "actionGroups": [
+      {
+        "actionGroupName": "InventoryManagement",
+        "description": "Queries real-time store stock levels and product catalog prices.",
+        "actionGroupExecutor": {
+          "lambda": "arn:aws:lambda:us-east-1:123456789012:function:commerce-inventory-hook"
+        }
+      },
+      {
+        "actionGroupName": "OmnichannelNotification",
+        "description": "Triggers automated transaction emails via Amazon SES v2 upon customer purchase confirmation.",
+        "actionGroupExecutor": {
+          "lambda": "arn:aws:lambda:us-east-1:123456789012:function:commerce-ses-notifier"
+        }
+      }
+    ]
+  }
+}
