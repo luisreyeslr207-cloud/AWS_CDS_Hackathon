@@ -6,3 +6,10 @@ __pycache__/
 .vscode/
 Thumbs.db
 .DS_Store
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Bitacoras internas
+AVANCE_HACKATHON_AWS.txt
