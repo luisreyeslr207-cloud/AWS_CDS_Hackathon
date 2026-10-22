@@ -1,34 +1,35 @@
-# Agentic AI Omnichannel Commerce Assistant
+# 🛡️ Agentic AI Omnichannel Commerce Assistant
 
-An autonomous, agent-driven conversational commerce solution built on **AWS Communication Developer Services (CDS)** and **Amazon Bedrock AgentCore**. This project automates customer support, real-time inventory checking, order generation, and omnichannel post-purchase notifications for modern e-commerce.
+An autonomous, agent-driven conversational commerce solution built for the **AWS CDS Agentic AI Hackathon**. The system orchestrates conversational commerce through **WhatsApp** (powered by AWS End User Messaging Social), cognitive inventory reasoning via **Amazon Bedrock Agents** (Anthropic Claude 3.5 Sonnet), live real-time stock and margin auditing backed by **Amazon DynamoDB**, and automated transaction receipt dispatch using **Amazon SES v2**.
 
-## 🚀 AWS CDS Technical Implementation
+## 🏗️ System Architecture
 
-This repository satisfies all runtime evaluation criteria by importing and explicitly invoking official AWS SDK clients:
-*   **AWS End User Messaging Social (WhatsApp):** Utilizes the `socialmessaging` client to intercept customer interactions and call the required `send_whatsapp_message` operation.
-*   **Amazon SES v2:** Utilizes the `sesv2` client via the `send_email` operation to automatically deliver secure post-purchase order receipts.
-*   **Amazon Bedrock AgentCore:** Orchestrates the system's reasoning logic via the `bedrock-agent-runtime` client using `invoke_agent`.
+```mermaid
+flowchart TD
+    subgraph ClientLayer [Customer Touchpoint]
+        A[Mobile Customer / WhatsApp]
+    end
 
-## 📁 Repository Structure
+    subgraph MessagingLayer [AWS Ingestion & Transport]
+        B[AWS End User Messaging Social]
+        B -->|Meta Graph API v20.0| C[OmnichannelAgentCore / Webhook]
+    end
 
-```text
-├── agent/                  # System prompts and Bedrock configuration manifests
-├── architecture/           # System design diagrams and visual flows
-├── src/
-│   └── app.py              # Monolithic production backend application
-├── LICENSE                 # Open-source MIT License
-├── README.md               # Judges evaluation documentation
-└── requirements.txt        # Verified project package dependencies
-```
+    subgraph CognitiveLayer [Autonomous Intelligence]
+        C -->|invoke_agent stream| D[Amazon Bedrock Agents]
+        D -->|Foundation Model| E[Claude 3.5 Sonnet 20240620-v1:0]
+        D -->|Action Group: InventoryManagement| F[Action Group Schema]
+    end
 
-## 🛠️ Testing & Interaction Instructions for Judges
+    subgraph DataLayer [Live Serverless Data Engine]
+        F -->|HTTPS / Function URL| G[AWS Lambda: Scraper_Hija_Extractor]
+        G -->|Read / Write Partition| H[(Amazon DynamoDB: Historial_Precios)]
+    end
 
-To evaluate the execution flow without full infrastructure replication, interface endpoints have been mocked in runtime files:
+    subgraph DispatchLayer [Post-Purchase Fulfilment]
+        C -->|Transactional Dispatch| I[Amazon SES v2]
+        I -->|HTML Digital Receipt| J[Customer Inbox]
+    end
 
-1.  **WhatsApp Agent Interaction:** Send any commerce-related query (e.g., product availability or order status) to the active staging number listed in the environment config.
-2.  **Autonomous Processing:** The runtime directs the input to **Amazon Bedrock AgentCore**, which queries current inventory status via AWS Lambda hooks.
-3.  **Omnichannel Output:** Once the transaction completes, an automated itemized confirmation receipt is routed immediately to the customer's verified email using **Amazon SES v2**.
-
-## ⚖️ License
-
-This project is licensed under the terms of the MIT License.
+    A <--> B
+    E --> D

@@ -1,0 +1,46 @@
+flowchart TD
+    subgraph CANALES_EXTERNOS["Canales de Entrada y Notificación"]
+        direction TB
+        WA_USER["📱 Usuario Final (WhatsApp)"]
+        NOTIF_EMAIL["✉️ Notificaciones / Alertas (Email)"]
+    end
+
+    subgraph AWS_CLOUD["AWS Cloud (us-east-1 | Account: 483528439523)"]
+        direction TB
+
+        subgraph INGESTION["Capa de Conectividad y Mensajería"]
+            EUM["AWS End User Messaging Social\n(Meta WhatsApp Graph API v20.0)"]
+            SES["Amazon SES v2\n(Client: sesv2)"]
+        end
+
+        subgraph CORE["Capa de Cómputo y Orquestación"]
+            APP["OmnichannelAgentCore\n(src/app.py - Python 3.11)"]
+        end
+
+        subgraph AI_REASONING["Capa de Inteligencia y Razonamiento"]
+            direction TB
+            BEDROCK_AGENT["Amazon Bedrock Agents\n(Estrategia: DEFAULT)"]
+            LLM_MODEL["Anthropic Claude 3.5 Sonnet\n(anthropic.claude-3-5-sonnet-20240620-v1:0)"]
+            SYSTEM_PROMPT["System Prompt Anti-Alucinación\n(Moneda MXN obligatoria / 3 Fases)"]
+            ACTION_GROUP["Bedrock Action Group\n(InventoryActionGroup)"]
+        end
+
+        subgraph DATA_TIER["Capa de Datos y Scraping Serverless"]
+            direction TB
+            LAMBDA_EXTRACTOR["AWS Lambda: Scraper_Hija_Extractor\n(HTTPS Function URL / mode=individual)"]
+            DYNAMO_DB[("Amazon DynamoDB\nTabla: Historial_Precios\n(Catálogo Amazon MX)")]
+        end
+    end
+
+    WA_USER <-->|"Payload UTF-8 (Graph API v20.0)"| EUM
+    EUM <-->|"Boto3 socialmessaging"| APP
+    APP -->|"Fallback / Alertas Críticas"| SES
+    SES --> NOTIF_EMAIL
+
+    APP <-->|"Boto3 bedrock-agent-runtime\n(InvokeAgentStream)"| BEDROCK_AGENT
+    BEDROCK_AGENT --- LLM_MODEL
+    BEDROCK_AGENT --- SYSTEM_PROMPT
+    BEDROCK_AGENT <--> ACTION_GROUP
+
+    ACTION_GROUP <-->|"HTTPS POST (Payload JSON atómico)"| LAMBDA_EXTRACTOR
+    LAMBDA_EXTRACTOR <-->|"Consultas y Actualización de Precios"| DYNAMO_DB
